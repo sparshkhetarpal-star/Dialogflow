@@ -20,25 +20,25 @@ The initial greeting flow where the bot introduces its capabilities.
 
 ### 3. Loan Eligibility Check
 Automated logic to determine if a user qualifies for financial products.
-<img src="(https://github.com/sparshkhetarpal-star/Dialogflow/blob/main/Screenshot%202026-05-07%20at%2010.53.12.png#:~:text=Screenshot-,2026%2D05%2D07,-at%2010.53.12.png">
+<img src="https://github.com/sparshkhetarpal-star/Dialogflow/blob/main/Screenshot%202026-05-07%20at%2010.53.12.png#:~:text=Screenshot-,2026%2D05%2D07,-at%2010.53.12.png">
 
 ---
 
 ### 4. EMI Calculation
 Real-time calculation of Equated Monthly Installments based on user input.
-<img src="(https://github.com/sparshkhetarpal-star/Dialogflow/blob/main/Screenshot%202026-05-07%20at%2010.48.50.png")>
+<img src="https://github.com/sparshkhetarpal-star/Dialogflow/blob/main/Screenshot%202026-05-07%20at%2010.48.50.png">
 
 ---
 
 ### 5. Suggestion Chips
 Interactive UI elements that guide the user through the conversation.
-<img src="["](https://github.com/sparshkhetarpal-star/Dialogflow/blob/main/Screenshot%202026-05-07%20at%2010.53.02.png#:~:text=05%2D07%20at-,10.53.02.png)>
+<img src="https://github.com/sparshkhetarpal-star/Dialogflow/blob/main/Screenshot%202026-05-07%20at%2010.53.02.png#:~:text=05%2D07%20at-,10.53.02.png">
 
 ---
 
 ### 6. Interaction Flow
 The complete conversational journey from query to resolution.
-<img src="["](https://github.com/sparshkhetarpal-star/Dialogflow/blob/main/Screenshot%202026-05-07%20at%2010.52.43.png#:~:text=Screenshot-,2026%2D05%2D07,-at%2010.52.43.png)>
+<img src="https://github.com/sparshkhetarpal-star/Dialogflow/blob/main/Screenshot%202026-05-07%20at%2010.52.43.png#:~:text=Screenshot-,2026%2D05%2D07,-at%2010.52.43.png">
 
 ---
 
