@@ -8,37 +8,36 @@ An intelligent conversational AI agent built with **Google Dialogflow** to autom
 
 ### 1. Dialogflow Console (Intents)
 The foundation of the bot, showing the mapped intents and training phrases.
-<img src="https://github.com/mittaldevansh/Dialogflow/raw/main/Intents.png" width="800" alt="Intents">
-
+<img src="Screenshot 2026-05-07 at 10.48.02.png"
 ---
 
 ### 2. Welcome & Onboarding
 The initial greeting flow where the bot introduces its capabilities.
-<img src="https://github.com/mittaldevansh/Dialogflow/raw/main/Welcome%20Intent.png" width="800" alt="Welcome">
+<img src="Screenshot 2026-05-07 at 10.48.50.png>
 
 ---
 
 ### 3. Loan Eligibility Check
 Automated logic to determine if a user qualifies for financial products.
-<img src="https://github.com/mittaldevansh/Dialogflow/raw/main/Loan%20Eligibility.png" width="800" alt="Loan Eligibility">
+<img src="Screenshot 2026-05-07 at 10.53.12.png>
 
 ---
 
 ### 4. EMI Calculation
 Real-time calculation of Equated Monthly Installments based on user input.
-<img src="https://github.com/mittaldevansh/Dialogflow/raw/main/EMI%20Calculate.png" width="800" alt="EMI Calculate">
+<img src="Screenshot 2026-05-07 at 10.48.50.png>
 
 ---
 
 ### 5. Suggestion Chips
 Interactive UI elements that guide the user through the conversation.
-<img src="https://github.com/mittaldevansh/Dialogflow/raw/main/Suggestion.png" width="800" alt="Suggestion">
+<img src="Screenshot 2026-05-07 at 10.52.43.png>
 
 ---
 
 ### 6. Interaction Flow
 The complete conversational journey from query to resolution.
-<img src="https://github.com/mittaldevansh/Dialogflow/raw/main/Interaction.png" width="800" alt="Interaction Flow">
+<img src="Screenshot 2026-05-07 at 10.51.27.png>
 
 ---
 
